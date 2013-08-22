@@ -1,5 +1,5 @@
 markdown: kramdown
 permalink: /:year/:month/:title/
-url: 
+url: http://peng-howard.github.io/notes
 author: 彭浩
 pygments: true
