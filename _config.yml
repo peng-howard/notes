@@ -1,0 +1,5 @@
+markdown: kramdown
+permalink: /:year/:month/:title/
+url: 
+author: 彭浩
+pygments: true
